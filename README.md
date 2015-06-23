@@ -1,3 +1,3 @@
 # xp-anchor-state
 
-See the [`documentation page`](http://expandjs.com/elements/xp-anchor-state) for more information.
+This repository **is deprecated**. Use [`xp-anchor-behavior`](https://github.com/expandjs/xp-anchor-behavior) instead.
